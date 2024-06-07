@@ -1,0 +1,5 @@
+# //loai bo su quan ly cua git
+# //khoi phuc khi chay composer update
+.env
+/vendor/
+composer.lock
